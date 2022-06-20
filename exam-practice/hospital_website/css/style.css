@@ -1,0 +1,92 @@
+
+li > a {
+    border-left: 1em;
+    border-color: white;
+}
+
+#welcomeText {
+    color: white;
+}
+
+h2 {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+h5 {
+    margin-top: 1em;
+}
+
+h6.italicFont {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+img.headerImage {
+    width: 100%;
+}
+
+a.phone {
+    color: blue;
+}
+
+a.email {
+    color: red;
+    text-decoration: none;
+}
+
+article > p {
+    font-size: 14px;
+}
+
+
+section.floatableSectionAtRight {
+    float: right;
+    margin-left: 30px;
+}
+
+footer {
+    background-color: aliceblue;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    display: flex;
+    height: 6%;
+}
+
+footer > section {
+    display: flex;
+    width: 50%;
+}
+
+.footerLeft {
+    margin-left: 20px;
+    align-items: center;
+}
+
+.footerRight {
+    margin-right: 20px;
+    justify-content: end;
+    align-items: center;
+}
+
+input.btn {
+    width: 40%;
+    margin-top: 30px;
+}
+
+label {
+    margin-top: 20px;
+}
+
+input.checkBox {
+    margin-left: 50px;
+}
+
+table {
+    margin-bottom: 100px;
+}
+
+div.table {
+    margin-bottom: 100px;
+}

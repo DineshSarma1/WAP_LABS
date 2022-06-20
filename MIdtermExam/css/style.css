@@ -1,0 +1,15 @@
+
+.headingTitle {
+    color: black;
+}
+
+#bannerImg {
+    width: 100%;
+}
+
+input.btn {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+}
+

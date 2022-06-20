@@ -1,0 +1,40 @@
+/* style.css */
+
+span#spnDateTime {
+    color: white;
+}
+
+img#happy-logo {
+    width: 20%;
+    height: 20%;
+    float: right;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: #cfcfcf;
+    width: 100vw;
+    display: flex;
+    height: 8%;
+}
+
+footer > section {
+    display: flex;
+    width: 50%;
+}
+
+footer > section.footer-section-right {
+    justify-content: end;
+}
+footer > section.footer-section-right span {
+    margin: 0 1em 0 1em; 
+}
+
+footer > section.footer-section-left span {
+    margin: 0 1em 0 1em; 
+}
+
+div.census-form-row {
+    margin-bottom: 2em;
+}

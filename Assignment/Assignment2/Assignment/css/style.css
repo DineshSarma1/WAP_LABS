@@ -1,0 +1,55 @@
+* {
+    background-color: rgb(57, 54, 54);
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: sans-serif;
+    color: rgb(102, 102, 187);
+}
+
+h2 {
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(102, 102, 187);
+}
+h3 {
+    font-size: 20px;
+    font-style: italic;
+    color: white;
+}
+
+h4 {
+    font-size: 20px;
+    color: white;
+}
+
+p {
+    font-size: 20px;
+    color: white;
+}
+div {
+    padding: 3px;
+}
+
+li {
+    padding: 3px;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: white;
+}
+a {
+    color: red;
+    text-decoration: none;
+    text-rendering: ;
+}
+
+img {
+    width: 350px;
+    height: 250px;
+    border-radius: 45;
+    border-width: 5;
+    padding-left: 15px;
+    padding-right: 15px;
+}
